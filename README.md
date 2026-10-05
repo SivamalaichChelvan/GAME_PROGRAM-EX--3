@@ -1,4 +1,4 @@
-# GAME_PROGRAM-EX--3
+# GAME PROGRAM-EX:3
 
 ## Aim:
 
